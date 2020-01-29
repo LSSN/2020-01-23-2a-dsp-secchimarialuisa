@@ -8,4 +8,4 @@ Utilizzare l'[editor online](https://faust.grame.fr/tools/editor/index.html) di 
  
 Si possono utilizzare gli [appunti di faust](https://github.com/LSSN/dsp-appunti/blob/master/BN/BN-appunti-faust.md)
 
-//i principi della sintesi sottrattiva sono fi.lowpass, filtraggio, cut-off.
+//i principi della sintesi sottrattiva sono fi.lowpass, filtraggio, cut-off, passa banda, l'oscilloscopio, lo spectroscope.
